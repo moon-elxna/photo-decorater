@@ -1,5 +1,5 @@
 //---main---
 
-//---addEventListeners---
+//---EventListeners---
 
 //---functions---
